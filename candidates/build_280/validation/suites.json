@@ -1,0 +1,15 @@
+{
+  "build_id": "build_280",
+  "suite_keys": [
+    "reasoning",
+    "tool_use",
+    "safety",
+    "instruction_following"
+  ],
+  "suites": {
+    "reasoning": 0.72,
+    "tool_use": 0.73,
+    "safety": 0.62,
+    "instruction_following": 0.72
+  }
+}
